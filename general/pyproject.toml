@@ -9,6 +9,7 @@ dependencies = [
     "bitsandbytes>=0.45.4",
     "deeplake>=4.1.17",
     "deepspeed>=0.16.5",
+    "dotenv>=0.9.9",
     "neural-compressor>=3.3.1",
     "onnx>=1.17.0",
     "openai>=1.70.0",
